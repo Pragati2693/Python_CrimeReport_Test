@@ -17,7 +17,7 @@ This dataset contain crimeid, location name, type of crime commited and the outc
 ![image](https://user-images.githubusercontent.com/68961996/210666641-6b028fad-157f-4b70-b099-e11b7cfeaa3f.png)
 
 2. City which records highest number of crime in Leeds
-![image](https://user-images.githubusercontent.com/68961996/210667117-27eccfb7-650c-4768-aca0-9d383b7503d9.png)
+ ![image](https://user-images.githubusercontent.com/68961996/210669320-8ae8d4cb-9fb3-4e4c-8db6-b11f6ab4c9c2.png)
 
 3. Below bar graph shows crime type verses City and Leeds city records highest crime and "Voilence and sexual offence" crime type is highest
 ![image](https://user-images.githubusercontent.com/68961996/210667399-44cc8fd8-3e5a-49d8-b321-c609386ad944.png)
