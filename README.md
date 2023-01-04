@@ -16,8 +16,10 @@ This dataset contain crimeid, location name, type of crime commited and the outc
 1. "Voilence and Sexual harrasment" contributes to 41% and then "Public Order" which contribute 13% of of all the type of crime
 ![image](https://user-images.githubusercontent.com/68961996/210666641-6b028fad-157f-4b70-b099-e11b7cfeaa3f.png)
 
-2. City which records highest number of crime in Leeds
- ![image](https://user-images.githubusercontent.com/68961996/210669320-8ae8d4cb-9fb3-4e4c-8db6-b11f6ab4c9c2.png)
+2. Leeds has highest crime record
+
+ ![image](https://user-images.githubusercontent.com/68961996/210669591-9690d91a-1f19-4784-8293-e019bf692347.png)
+
 
 3. Below bar graph shows crime type verses City and Leeds city records highest crime and "Voilence and sexual offence" crime type is highest
 ![image](https://user-images.githubusercontent.com/68961996/210667399-44cc8fd8-3e5a-49d8-b321-c609386ad944.png)
